@@ -18,5 +18,6 @@ public class Test
         System.out.println (p.getName ());
 
 	System.out.println ("Today is the Open Day!");
+	System.out.println(" Dunia Al-khalil ");   
     }
 }
