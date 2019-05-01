@@ -17,6 +17,6 @@ public class Test
         Person p= new Person ("Mary", 4);
         System.out.println (p.getName ());
 
-	System.out.println ("Today is the Open Day!");
+	System.out.println ("Hello this is Ahmad Alawnah, my ID is 20170105");
     }
 }
